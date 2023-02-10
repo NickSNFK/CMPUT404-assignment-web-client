@@ -9,8 +9,11 @@ Make a simple web-client like curl or wget
 
 Contributors / Licensing
 ========================
+The file httpclient.py has contributions from the folowing authors:
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, 
+* Nicholas Wielgus
+
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle,
 https://github.com/tywtyw2002, and https://github.com/treedust
 
 But the server.py example is derived from the python documentation
